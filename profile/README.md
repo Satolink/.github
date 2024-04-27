@@ -8,7 +8,7 @@ Satolink is a project aimed at simplifying Bitcoin transactions and enhancing us
 
 ## Quick Links
 
-- [Twitter](https://twitter.com/SatolinkBTC)
+- [X](https://twitter.com/SatolinkBTC)
 - [Telegram](https://t.me/SatolinkBTC)
 - [Medium](https://medium.com/@satolink)
 
