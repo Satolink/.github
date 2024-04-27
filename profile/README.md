@@ -18,6 +18,6 @@ While this repository is private, we value your insights and suggestions to enha
 
 ## Stay Updated
 
-Follow us on Twitter and join our Telegram community to stay updated on the latest developments and announcements!
+Follow us on X and join our Telegram community to stay updated on the latest developments and announcements!
 
 Happy coding!
