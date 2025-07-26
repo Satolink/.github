@@ -1,5 +1,4 @@
-```markdown
-# Satolink 
+# Satolink 🟧 ⚡️
 
 Welcome to Satolink's GitHub repo.
 
@@ -8,15 +7,16 @@ Satolink makes sending and receiving Bitcoin or USDT as simple as sharing a link
 Built for real people in emerging markets.
 
 ## Quick Links  
-- [Documentation](https://satolink.gitbook.io/satolink/)  
-- [Telegram](https://t.me/satolink)  
-- [Twitter](https://twitter.com/satolink)
+- [📖 Documentation](https://satolink.gitbook.io/satolink/)  
+- [💬 Telegram](https://t.me/satolink)  
+- [🔗 X (Twitter)](https://twitter.com/satolink)
 
 ## How to Contribute  
-This repo is private for now, but we welcome feedback. Reach out on Telegram or Twitter to share ideas or questions.
+This repo is private for now, but we welcome feedback.  
+Feel free to reach out via Telegram or X (Twitter) with suggestions or questions.
 
 ## Stay Updated  
-Follow us on Twitter and join our Telegram community for the latest news.
+Follow us and join the community to stay in the loop.
 
+---
 Happy coding!
-```
