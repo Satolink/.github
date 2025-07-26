@@ -9,7 +9,7 @@ Satolink makes sending and receiving Bitcoin or USDT as simple as sharing a link
 Built for real people in emerging markets.
 
 ## Quick Links  
-- [📖 Documentation](https://satolink.gitbook.io/satolink/)  
+- [📖 Docs](https://satolink.gitbook.io/satolink/)  
 - [💬 Telegram](https://t.me/satolink)  
 - [🔗 X (Twitter)](https://twitter.com/satolink)
 
