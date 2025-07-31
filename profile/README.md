@@ -10,8 +10,8 @@ Built for real people in emerging markets.
 
 ## Quick Links  
 - [📖 Docs](https://satolink.gitbook.io/satolink/)  
-- [💬 Telegram](https://t.me/satolink)  
-- [🔗 X (Twitter)](https://twitter.com/satolink)
+- [💬 Telegram](https://t.me/satolinkbtc)  
+- [🔗 X (Twitter)](https://twitter.com/satolinkbtc)
 
 ## How to Contribute  
 This repo is private for now, but we welcome feedback.  
