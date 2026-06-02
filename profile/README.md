@@ -1,24 +1,41 @@
 ![1](https://github.com/user-attachments/assets/db9d88c6-187d-49e6-9d90-278add43f693)
 
-# Satolink 
+# Satolink ⚡
 
-Welcome to Satolink's GitHub repo.
+**Bitcoin Lightning payments for LATAM and Africa.**
 
-## About Satolink  
-Satolink makes sending and receiving Bitcoin or USDT as simple as sharing a link — no apps, no addresses, no setup.  
-Built for real people in emerging markets.
+Send BTC or USDT via a personal link — satolink.com/yourname.
+No wallet address. No KYC. Non-custodial. <1 second settlement.
 
-## Quick Links  
-- [📖 Docs](https://satolink.gitbook.io/satolink/)  
-- [💬 Telegram](https://t.me/satolinkbtc)  
-- [🔗 X (Twitter)](https://twitter.com/satolinkbtc)
-
-## How to Contribute  
-This repo is private for now, but we welcome feedback.  
-Feel free to reach out via Telegram or X (Twitter) with suggestions or questions.
-
-## Stay Updated  
-Follow us and join the community to stay in the loop.
+Built for real people in Venezuela 🇻🇪 Colombia 🇨🇴 
+Nigeria 🇳🇬 Argentina 🇦🇷 and beyond.
 
 ---
-Happy coding!
+
+## What is Satolink?
+
+Satolink replaces complex wallet addresses with human-readable 
+payment links. Claim your link once, share it like email, 
+receive Bitcoin or USDT instantly from anywhere in the world.
+
+- ⚡ Settlement: < 1 second (Lightning Network)
+- 💸 Fee: 1% flat
+- 🔐 KYC: Not required
+- 🏦 Custody: Non-custodial
+- 💵 Assets: BTC + USDT (Taproot Assets)
+
+---
+
+## Quick Links
+
+- 📖 [Docs](https://satolink.gitbook.io/satolink/)
+- 🌐 [Website](https://satolink.com)
+- 💬 [Telegram](https://t.me/satolinkbtc)
+- 🐦 [X (Twitter)](https://twitter.com/satolinkbtc)
+
+---
+
+## Contribute
+
+Repos are private during development. 
+Feedback welcome via Telegram or X.
