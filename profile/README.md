@@ -1,41 +1,39 @@
-![1](https://github.com/user-attachments/assets/db9d88c6-187d-49e6-9d90-278add43f693)
+<p align="center">
+  <img width="1280" height="400" alt="GitHub · banner README 1280×400@1x" src="https://github.com/user-attachments/assets/2c5bcc6a-933e-4c61-bd23-171172328be6" />
+</p>
 
-# Satolink ⚡
+<h3 align="center">bitcoin payments with a link.</h3>
 
-**Bitcoin Lightning payments for LATAM and Africa.**
-
-Send BTC or USDT via a personal link — satolink.com/yourname.
-No wallet address. No KYC. Non-custodial. <1 second settlement.
-
-Built for real people in Venezuela 🇻🇪 Colombia 🇨🇴 
-Nigeria 🇳🇬 Argentina 🇦🇷 and beyond.
-
----
-
-## What is Satolink?
-
-Satolink replaces complex wallet addresses with human-readable 
-payment links. Claim your link once, share it like email, 
-receive Bitcoin or USDT instantly from anywhere in the world.
-
-- ⚡ Settlement: < 1 second (Lightning Network)
-- 💸 Fee: 1% flat
-- 🔐 KYC: Not required
-- 🏦 Custody: Non-custodial
-- 💵 Assets: BTC + USDT (Taproot Assets)
+<p align="center">
+  <a href="https://satolink.com"><img src="https://img.shields.io/badge/satolink.com-040302?style=for-the-badge" alt="Website"></a>
+  <a href="https://x.com/satolinkbtc"><img src="https://img.shields.io/badge/@satolinkbtc-040302?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 ---
 
-## Quick Links
+### the problem, in one diff
 
-- 📖 [Docs](https://satolink.gitbook.io/satolink/)
-- 🌐 [Website](https://satolink.com)
-- 💬 [Telegram](https://t.me/satolinkbtc)
-- 🐦 [X (Twitter)](https://twitter.com/satolinkbtc)
+```diff
+- bc1q9h7garjlwd8mws3u5rn8k2dk7xrv9zx0wqnzp4
++ satolink.com/@maria
+```
+
+### how it works
+
+```bash
+$ claim     @maria
+$ share     satolink.com/@maria
+$ receive   ⚡ settled in seconds over lightning
+```
+
+### built on three rules
+
+| | |
+|---|---|
+| ⚡ **lightning-native** | payments settle in seconds |
+| 🔐 **non-custodial** | keys are encrypted client-side and never leave the device |
+| 🔗 **human-readable** | one link per user, shareable like an email address |
 
 ---
 
-## Contribute
-
-Repos are private during development. 
-Feedback welcome via Telegram or X.
+<p align="center"><sub>repositories are private during development · money without borders.</sub></p>
